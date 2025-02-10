@@ -1,0 +1,2 @@
+@time
+my_function()
