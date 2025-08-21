@@ -12,7 +12,7 @@ Bài báo nghiên cứu việc ứng dụng thuật toán Heap Sort và cấu tr
 
 <img width="1034" height="787" alt="image" src="https://github.com/user-attachments/assets/e1608727-f203-45e4-b8b2-a8c00f7b3d87" />
 
-##[So Sanh 2 thuật toán]
+## So Sanh 2 thuật toán
 
 <img width="573" height="528" alt="image" src="https://github.com/user-attachments/assets/75f546d9-ca9b-4df3-90e8-3b6c18fb4356" />
 
